@@ -15,6 +15,8 @@ namespace Presentation
         public Form1()
         {
             InitializeComponent();
+            int i = 0;
+            Console.WriteLine(i);
         }
     }
 }
